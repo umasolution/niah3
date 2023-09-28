@@ -17,7 +17,7 @@
     "rxjs": "6.6.3",
     "ts-node": "9.0.0",
     "typescript": "4.0.7",
-    "yargs": "17.2.1"
+    "yargs": "17.7.2"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "~5.3.1",
