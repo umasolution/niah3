@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@types/node": "~16.18.11",
-    "@types/tape": "~4.2.33",
+    "@types/tape": "~4.13.4",
     "@types/yargs": "17.0.5",
     "cheerio": "1.0.0-rc.10",
     "rxjs": "6.6.3",
